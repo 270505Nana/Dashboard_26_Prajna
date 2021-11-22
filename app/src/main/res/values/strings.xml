@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">SkincareAPP</string>
+    <string name="hello_text" translatable="false">Selamat datang, Twizzly!</string>
+</resources>
